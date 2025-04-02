@@ -9,7 +9,7 @@ Meu nome é João Rafael dos Santos da Rosa, atualmente estou cursando Engenhari
 ## 🔗 Contato e Redes Sociais
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/joao-rafael-da-rosa" target="_blank">
+    <a href="www.linkedin.com/in/joão-rafael-da-rosa" target="_blank">
         <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="mailto:jrafaeldoessantosdarosa@gmail.com">
