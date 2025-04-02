@@ -9,13 +9,13 @@ Meu nome é João Rafael dos Santos da Rosa, atualmente estou cursando Engenhari
 ## 🔗 Contato e Redes Sociais
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/joao-rafael-rosa" target="_blank">
-    <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+    <a href="https://www.linkedin.com/in/joao-rafael-rosa" target="_blank" rel="noopener noreferrer">
+        <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
     <a href="mailto:jrafaeldoessantosdarosa@gmail.com">
         <img alt="Email" title="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="https://github.com/JRafaelRosa?tab=repositories" target="_blank">
+    <a href="https://github.com/JRafaelRosa?tab=repositories" target="_blank" rel="noopener noreferrer">
         <img alt="Repositórios" title="Repositórios GitHub" src="https://img.shields.io/badge/Repositórios-🗂️%20ver%20no%20GitHub-2b5a8a?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
 </p>
