@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full-Stack`**  
 
-Atualmente cursando **Engenharia de Computação** na UEPG e. Busco constantemente aprimorar minhas habilidades e conhecimentos em desenvolvimento web, com foco em tecnologias **Back-End e Front-End**.  
+Atualmente cursando Engenharia de Computação na UEPG, com foco em desenvolvimento Full-Stack, sempre buscando aprimorar meus conhecimentos e explorar novas tecnologias.
 
 ---
 
