@@ -57,5 +57,4 @@ Atualmente cursando Engenharia de Computação na UEPG, com foco em desenvolvime
 
 <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JRafaelRosa&show_icons=true&theme=tokyonight&locale=pt-br"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRafaelRosa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 </p>
