@@ -42,6 +42,8 @@ Meu nome é João Rafael dos Santos da Rosa, atualmente estou cursando Engenhari
 ### 🗄️ Banco de Dados
 <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
+<img align="left" alt="Postgresql" title="Postgresql" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+
 <br/><br/>
 
 ### 🛠️ Ferramentas e Utilitários
